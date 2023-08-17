@@ -1,0 +1,70 @@
+* {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.b_g {
+  background-color: black;
+  width: 400px;
+  height: 500px;
+}
+
+.head_main {
+  font-size: 48px;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.Soju {
+  border: 1px solid red;
+  display: block;
+  margin: 45px auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#chance_area {
+  margin-left: 30px;
+}
+#input_count {
+  width: 120px;
+  height: 60px;
+  background-color: black;
+  font-size: 14px;
+  box-shadow: 0 4px 16px;
+  border-radius: 20px;
+  display: block;
+  margin: auto;
+}
+.client_box {
+  text-align: center;
+  margin-top: 20px;
+}
+#Check_box {
+  width: 50px;
+  height: 30px;
+  background-color: black;
+  box-shadow: 0 4px 16px;
+  border-radius: 20px;
+}
+
+#Reset_box {
+  width: 50px;
+  height: 30px;
+  margin-left: 20px;
+  background-color: black;
+  box-shadow: 0 4px 16px;
+  border-radius: 20px;
+}
